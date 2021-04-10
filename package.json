@@ -1,0 +1,12 @@
+{
+    "name": "EmployeeTracker.github.io",
+    "version": "1.0.0",
+    "dependencies": {
+      "inquirer-confirm": "^2.0.7",
+      "inquirer": "^7.0.3",
+      "mysql": "^2.17.1"
+    },
+    "devDependencies": {},
+    "author": "",
+    "license": ""
+  }
